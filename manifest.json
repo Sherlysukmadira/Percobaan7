@@ -1,0 +1,21 @@
+{
+  "name": "Sherly PWA",
+  "short_name": "Sherly",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
